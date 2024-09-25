@@ -10,7 +10,7 @@ public class PemilihanBilangan22 {
 
         if (angka % 2 == 0)
         {
-            System.out.println("Angka" + angka + " termasuk bilangan genap");
+            System.out.println("Angka" + angka + " termasuk bilangan genapp");
         }
         else
         {
